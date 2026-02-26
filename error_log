@@ -1,0 +1,2306 @@
+[21-Nov-2025 10:41:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:41:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:41:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:41:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:41:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:42:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:44:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'alihair_alihairwigs' in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihair_alihair...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[21-Nov-2025 10:48:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[21-Nov-2025 10:53:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 10:59:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[21-Nov-2025 10:59:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[21-Nov-2025 10:59:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/womens_wigs.php:29
+Stack trace:
+#0 /home/alihairw/public_html/womens_wigs.php(29): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/womens_wigs.php on line 29
+[21-Nov-2025 10:59:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[21-Nov-2025 10:59:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/womens_wigs.php:29
+Stack trace:
+#0 /home/alihairw/public_html/womens_wigs.php(29): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/womens_wigs.php on line 29
+[21-Nov-2025 10:59:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 10:59:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 10:59:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/womens_wigs.php:29
+Stack trace:
+#0 /home/alihairw/public_html/womens_wigs.php(29): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/womens_wigs.php on line 29
+[21-Nov-2025 11:00:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[21-Nov-2025 11:02:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/womens_wigs.php:29
+Stack trace:
+#0 /home/alihairw/public_html/womens_wigs.php(29): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/womens_wigs.php on line 29
+[21-Nov-2025 11:02:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 11:03:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'x5.H(8xkh3H7EY' in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'x5.H(8xkh3H7EY')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 11:03:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'x5.H(8xkh3H7EY' in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'x5.H(8xkh3H7EY')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 11:03:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'x5.H(8xkh3H7EY' in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'x5.H(8xkh3H7EY')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 11:03:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'x5.H(8xkh3H7EY' in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'x5.H(8xkh3H7EY')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 11:03:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'x5.H(8xkh3H7EY' in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'x5.H(8xkh3H7EY')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 11:03:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'x5.H(8xkh3H7EY' in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'x5.H(8xkh3H7EY')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 11:03:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'x5.H(8xkh3H7EY' in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'x5.H(8xkh3H7EY')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 11:03:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'x5.H(8xkh3H7EY' in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'x5.H(8xkh3H7EY')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 11:03:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'x5.H(8xkh3H7EY' in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'x5.H(8xkh3H7EY')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 11:03:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'x5.H(8xkh3H7EY' in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'x5.H(8xkh3H7EY')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 11:04:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' to database 'x5.H(8xkh3H7EY' in /home/alihairw/public_html/login.php:12
+Stack trace:
+#0 /home/alihairw/public_html/login.php(12): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'x5.H(8xkh3H7EY')
+#1 {main}
+  thrown in /home/alihairw/public_html/login.php on line 12
+[21-Nov-2025 11:46:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[21-Nov-2025 11:46:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[21-Nov-2025 11:46:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[21-Nov-2025 11:46:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[21-Nov-2025 11:46:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[21-Nov-2025 11:48:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[21-Nov-2025 11:48:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[21-Nov-2025 11:48:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[21-Nov-2025 11:48:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[21-Nov-2025 11:48:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[21-Nov-2025 19:57:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[21-Nov-2025 19:57:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[21-Nov-2025 19:57:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[21-Nov-2025 19:57:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[21-Nov-2025 19:57:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[21-Nov-2025 19:57:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[21-Nov-2025 19:57:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[21-Nov-2025 19:57:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[21-Nov-2025 19:57:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[21-Nov-2025 19:57:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[22-Nov-2025 19:05:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[22-Nov-2025 19:05:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[23-Nov-2025 09:55:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[23-Nov-2025 10:05:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:43
+Stack trace:
+#0 /home/alihairw/public_html/index.php(43): mysqli->prepare('SELECT title, i...')
+#1 /home/alihairw/public_html/index.php(109): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 43
+[23-Nov-2025 10:06:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:43
+Stack trace:
+#0 /home/alihairw/public_html/index.php(43): mysqli->prepare('SELECT title, i...')
+#1 /home/alihairw/public_html/index.php(110): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 43
+[23-Nov-2025 10:06:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:43
+Stack trace:
+#0 /home/alihairw/public_html/index.php(43): mysqli->prepare('SELECT title, i...')
+#1 /home/alihairw/public_html/index.php(110): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 43
+[23-Nov-2025 10:06:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:43
+Stack trace:
+#0 /home/alihairw/public_html/index.php(43): mysqli->prepare('SELECT title, i...')
+#1 /home/alihairw/public_html/index.php(110): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 43
+[23-Nov-2025 10:06:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:43
+Stack trace:
+#0 /home/alihairw/public_html/index.php(43): mysqli->prepare('SELECT title, i...')
+#1 /home/alihairw/public_html/index.php(110): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 43
+[23-Nov-2025 10:06:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:43
+Stack trace:
+#0 /home/alihairw/public_html/index.php(43): mysqli->prepare('SELECT title, i...')
+#1 /home/alihairw/public_html/index.php(110): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 43
+[23-Nov-2025 10:11:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[23-Nov-2025 10:11:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[23-Nov-2025 10:11:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[23-Nov-2025 10:15:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[23-Nov-2025 11:08:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[23-Nov-2025 11:08:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[24-Nov-2025 04:33:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT id, titl...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[24-Nov-2025 04:33:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT id, titl...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[24-Nov-2025 04:46:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:34
+Stack trace:
+#0 /home/alihairw/public_html/index.php(34): mysqli->prepare('SELECT id, titl...')
+#1 /home/alihairw/public_html/index.php(100): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 34
+[24-Nov-2025 04:47:18 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/alihairw/public_html/index.php on line 33
+[24-Nov-2025 04:47:19 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/alihairw/public_html/index.php on line 33
+[24-Nov-2025 04:47:20 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/alihairw/public_html/index.php on line 33
+[24-Nov-2025 12:17:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 12:29:26 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:26 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:29 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:29 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:31 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:31 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:33 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:33 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:36 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:36 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:37 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:37 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:41 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:41 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:43 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:43 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:44 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:44 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:46 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:46 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:49 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:49 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:58 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:29:58 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:30:02 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:30:02 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:32:10 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:32:10 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:1026
+Stack trace:
+#0 /home/alihairw/public_html/index.php(1026): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 1026
+[24-Nov-2025 12:47:58 UTC] PHP Warning:  Undefined variable $all_reviews in /home/alihairw/public_html/index.php on line 923
+[24-Nov-2025 12:47:58 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/alihairw/public_html/index.php:923
+Stack trace:
+#0 /home/alihairw/public_html/index.php(923): array_map(Object(Closure), NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 923
+[24-Nov-2025 13:18:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(165): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[24-Nov-2025 13:18:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(165): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[24-Nov-2025 13:18:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(165): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[24-Nov-2025 13:18:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(165): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[24-Nov-2025 13:18:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(165): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[24-Nov-2025 13:18:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(165): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[24-Nov-2025 13:23:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:111
+Stack trace:
+#0 /home/alihairw/public_html/index.php(111): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(171): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 111
+[24-Nov-2025 13:23:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:111
+Stack trace:
+#0 /home/alihairw/public_html/index.php(111): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(171): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 111
+[24-Nov-2025 13:23:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:111
+Stack trace:
+#0 /home/alihairw/public_html/index.php(111): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(171): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 111
+[24-Nov-2025 13:23:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:111
+Stack trace:
+#0 /home/alihairw/public_html/index.php(111): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(171): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 111
+[24-Nov-2025 13:23:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:111
+Stack trace:
+#0 /home/alihairw/public_html/index.php(111): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(171): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 111
+[24-Nov-2025 13:43:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(105): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[24-Nov-2025 13:48:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(104): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[24-Nov-2025 14:14:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[24-Nov-2025 15:59:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:136
+Stack trace:
+#0 /home/alihairw/public_html/index.php(136): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(210): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 136
+[24-Nov-2025 15:59:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:136
+Stack trace:
+#0 /home/alihairw/public_html/index.php(136): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(211): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 136
+[24-Nov-2025 15:59:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:136
+Stack trace:
+#0 /home/alihairw/public_html/index.php(136): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(211): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 136
+[24-Nov-2025 15:59:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:136
+Stack trace:
+#0 /home/alihairw/public_html/index.php(136): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(211): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 136
+[24-Nov-2025 15:59:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:136
+Stack trace:
+#0 /home/alihairw/public_html/index.php(136): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(211): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 136
+[24-Nov-2025 15:59:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:136
+Stack trace:
+#0 /home/alihairw/public_html/index.php(136): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(211): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 136
+[24-Nov-2025 15:59:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:136
+Stack trace:
+#0 /home/alihairw/public_html/index.php(136): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(211): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 136
+[24-Nov-2025 15:59:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:136
+Stack trace:
+#0 /home/alihairw/public_html/index.php(136): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(211): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 136
+[24-Nov-2025 16:59:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'DB_USERNAME_HERE'@'localhost' (using password: YES) in /home/alihairw/public_html/index.php:26
+Stack trace:
+#0 /home/alihairw/public_html/index.php(26): mysqli->__construct('localhost', 'DB_USERNAME_HER...', 'DB_PASSWORD_HER...', 'DB_NAME_HERE')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 26
+[24-Nov-2025 16:59:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'DB_USERNAME_HERE'@'localhost' (using password: YES) in /home/alihairw/public_html/index.php:26
+Stack trace:
+#0 /home/alihairw/public_html/index.php(26): mysqli->__construct('localhost', 'DB_USERNAME_HER...', 'DB_PASSWORD_HER...', 'DB_NAME_HERE')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 26
+[24-Nov-2025 16:59:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'DB_USERNAME_HERE'@'localhost' (using password: YES) in /home/alihairw/public_html/index.php:26
+Stack trace:
+#0 /home/alihairw/public_html/index.php(26): mysqli->__construct('localhost', 'DB_USERNAME_HER...', 'DB_PASSWORD_HER...', 'DB_NAME_HERE')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 26
+[24-Nov-2025 16:59:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'DB_USERNAME_HERE'@'localhost' (using password: YES) in /home/alihairw/public_html/index.php:26
+Stack trace:
+#0 /home/alihairw/public_html/index.php(26): mysqli->__construct('localhost', 'DB_USERNAME_HER...', 'DB_PASSWORD_HER...', 'DB_NAME_HERE')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 26
+[24-Nov-2025 16:59:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'DB_USERNAME_HERE'@'localhost' (using password: YES) in /home/alihairw/public_html/index.php:26
+Stack trace:
+#0 /home/alihairw/public_html/index.php(26): mysqli->__construct('localhost', 'DB_USERNAME_HER...', 'DB_PASSWORD_HER...', 'DB_NAME_HERE')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 26
+[24-Nov-2025 16:59:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'DB_USERNAME_HERE'@'localhost' (using password: YES) in /home/alihairw/public_html/index.php:26
+Stack trace:
+#0 /home/alihairw/public_html/index.php(26): mysqli->__construct('localhost', 'DB_USERNAME_HER...', 'DB_PASSWORD_HER...', 'DB_NAME_HERE')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 26
+[24-Nov-2025 17:01:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:136
+Stack trace:
+#0 /home/alihairw/public_html/index.php(136): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(209): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 136
+[24-Nov-2025 17:02:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:02:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:02:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:02:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:02:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:27:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:27:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:28:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[24-Nov-2025 17:35:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[24-Nov-2025 17:40:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[24-Nov-2025 17:41:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[24-Nov-2025 19:47:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[24-Nov-2025 19:52:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_image_url' in 'SELECT' in /home/alihairw/public_html/index.php:56
+Stack trace:
+#0 /home/alihairw/public_html/index.php(56): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(135): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 56
+[24-Nov-2025 20:01:27 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:01:27 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:01:27 UTC] PHP Warning:  Undefined variable $cart_total in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:01:27 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, null given in /home/alihairw/public_html/index.php:865
+Stack trace:
+#0 /home/alihairw/public_html/index.php(865): number_format(NULL, 2)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:01:28 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:01:28 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:01:28 UTC] PHP Warning:  Undefined variable $cart_total in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:01:28 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, null given in /home/alihairw/public_html/index.php:865
+Stack trace:
+#0 /home/alihairw/public_html/index.php(865): number_format(NULL, 2)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:01:28 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:01:28 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:01:28 UTC] PHP Warning:  Undefined variable $cart_total in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:01:28 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, null given in /home/alihairw/public_html/index.php:865
+Stack trace:
+#0 /home/alihairw/public_html/index.php(865): number_format(NULL, 2)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:01:29 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:01:29 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:01:29 UTC] PHP Warning:  Undefined variable $cart_total in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:01:29 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, null given in /home/alihairw/public_html/index.php:865
+Stack trace:
+#0 /home/alihairw/public_html/index.php(865): number_format(NULL, 2)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:01:29 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:01:29 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:01:29 UTC] PHP Warning:  Undefined variable $cart_total in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:01:29 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, null given in /home/alihairw/public_html/index.php:865
+Stack trace:
+#0 /home/alihairw/public_html/index.php(865): number_format(NULL, 2)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:01:29 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:01:29 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:01:29 UTC] PHP Warning:  Undefined variable $cart_total in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:01:29 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, null given in /home/alihairw/public_html/index.php:865
+Stack trace:
+#0 /home/alihairw/public_html/index.php(865): number_format(NULL, 2)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:02:09 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:02:09 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:02:09 UTC] PHP Warning:  Undefined variable $cart_total in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:02:09 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, null given in /home/alihairw/public_html/index.php:865
+Stack trace:
+#0 /home/alihairw/public_html/index.php(865): number_format(NULL, 2)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:02:10 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:02:10 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:02:10 UTC] PHP Warning:  Undefined variable $cart_total in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:02:10 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, null given in /home/alihairw/public_html/index.php:865
+Stack trace:
+#0 /home/alihairw/public_html/index.php(865): number_format(NULL, 2)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:02:10 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:02:10 UTC] PHP Warning:  Undefined variable $cart_count in /home/alihairw/public_html/index.php on line 427
+[24-Nov-2025 20:02:10 UTC] PHP Warning:  Undefined variable $cart_total in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:02:10 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, null given in /home/alihairw/public_html/index.php:865
+Stack trace:
+#0 /home/alihairw/public_html/index.php(865): number_format(NULL, 2)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 865
+[24-Nov-2025 20:08:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 05:12:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 05:12:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 05:12:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 05:13:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 05:18:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 06:42:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 06:45:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 06:46:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 06:57:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 06:57:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 06:57:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 06:57:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 06:57:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 06:57:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 06:57:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 06:57:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 06:57:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 07:00:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 07:01:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 07:01:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 07:10:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 07:10:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 07:10:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 07:30:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 07:39:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 07:40:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 07:52:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 08:00:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:00:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:01:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/mens_wigs.php:27
+Stack trace:
+#0 /home/alihairw/public_html/mens_wigs.php(27): mysqli->__construct('localhost', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/mens_wigs.php on line 27
+[25-Nov-2025 08:03:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 08:03:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 08:03:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 08:06:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 08:06:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 08:11:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 08:16:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 12:04:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 12:23:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[25-Nov-2025 12:24:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/search.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/search.php on line 27
+[27-Nov-2025 12:55:38 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for localhos failed: Name or service not known in /home/alihairw/public_html/register.php on line 12
+[27-Nov-2025 12:55:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhos failed: Name or service not known in /home/alihairw/public_html/register.php:12
+Stack trace:
+#0 /home/alihairw/public_html/register.php(12): mysqli->__construct('localhos', 'alihairw', 'x5.H(8xkh3H7EY', 'alihairw_alihai...')
+#1 {main}
+  thrown in /home/alihairw/public_html/register.php on line 12
+[03-Dec-2025 04:13:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[03-Dec-2025 04:13:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[03-Dec-2025 04:13:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[03-Dec-2025 04:14:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[03-Dec-2025 04:15:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[03-Dec-2025 04:37:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[03-Dec-2025 04:37:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[03-Dec-2025 04:37:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[08-Dec-2025 18:34:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[09-Dec-2025 06:36:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[09-Dec-2025 06:36:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[09-Dec-2025 06:37:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[09-Dec-2025 06:37:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[09-Dec-2025 06:37:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[09-Dec-2025 06:37:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[09-Dec-2025 06:38:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[09-Dec-2025 06:38:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[09-Dec-2025 06:38:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[09-Dec-2025 06:38:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[15-Dec-2025 05:39:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[15-Dec-2025 05:40:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[15-Dec-2025 05:40:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[15-Dec-2025 05:40:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[15-Dec-2025 05:42:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[15-Dec-2025 05:44:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[15-Dec-2025 05:46:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[15-Dec-2025 05:46:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[15-Dec-2025 05:47:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[16-Dec-2025 08:57:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[16-Dec-2025 10:53:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[18-Dec-2025 22:14:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[19-Dec-2025 00:09:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[19-Dec-2025 00:30:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[19-Dec-2025 06:27:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[20-Dec-2025 04:02:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[23-Dec-2025 09:15:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[23-Dec-2025 09:16:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[23-Dec-2025 09:16:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[23-Dec-2025 09:17:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[23-Dec-2025 09:21:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[23-Dec-2025 09:22:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[23-Dec-2025 09:23:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[23-Dec-2025 09:25:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[23-Dec-2025 09:29:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[23-Dec-2025 09:29:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[23-Dec-2025 09:30:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[23-Dec-2025 09:32:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[25-Dec-2025 11:29:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[29-Dec-2025 04:37:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[01-Jan-2026 23:14:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[01-Jan-2026 23:15:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[01-Jan-2026 23:15:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[01-Jan-2026 23:16:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[01-Jan-2026 23:16:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[01-Jan-2026 23:16:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[01-Jan-2026 23:20:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[01-Jan-2026 23:21:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[01-Jan-2026 23:21:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[01-Jan-2026 23:22:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[01-Jan-2026 23:23:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[01-Jan-2026 23:24:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[13-Jan-2026 23:35:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[13-Jan-2026 23:36:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[13-Jan-2026 23:36:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[13-Jan-2026 23:36:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[13-Jan-2026 23:37:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[13-Jan-2026 23:37:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 00:08:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 00:08:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 00:09:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 00:09:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 00:09:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 00:10:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 00:44:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 00:45:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 00:45:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 00:46:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 00:46:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 00:47:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 01:17:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 01:17:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 01:18:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 01:49:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 01:50:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[14-Jan-2026 01:50:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[16-Jan-2026 21:02:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[17-Jan-2026 18:37:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[17-Jan-2026 18:39:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[17-Jan-2026 18:40:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[17-Jan-2026 18:41:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[17-Jan-2026 18:41:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[17-Jan-2026 18:42:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[17-Jan-2026 18:44:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[17-Jan-2026 18:45:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[21-Jan-2026 07:56:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 05:12:30 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:12:38 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:12:50 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:13:09 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:13:10 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:13:14 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:13:27 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:13:31 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:13:32 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:13:35 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:33 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:38 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:39 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:39 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:40 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:40 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:41 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:49 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:49 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:50 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:50 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:51 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:51 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:51 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:52 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:52 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:14:58 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:00 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:01 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:01 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:06 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:07 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:07 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:07 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:08 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:08 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:09 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:11 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:11 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:26 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:27 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:38 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:38 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:41 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:15:58 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:16:15 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:17:55 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:17:57 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:18:02 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:18:39 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:20:53 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:20:53 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:20:54 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, null given in /home/alihairw/public_html/index.php:578
+Stack trace:
+#0 /home/alihairw/public_html/index.php(578): htmlspecialchars(NULL, 3)
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 578
+[28-Jan-2026 05:25:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'alihairw_alihairwigs.sliderimages' doesn't exist in /home/alihairw/public_html/index.php:31
+Stack trace:
+#0 /home/alihairw/public_html/index.php(31): mysqli->prepare('SELECT title, s...')
+#1 /home/alihairw/public_html/index.php(103): fetchSlides(Object(mysqli))
+#2 {main}
+  thrown in /home/alihairw/public_html/index.php on line 31
+[28-Jan-2026 05:29:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 05:29:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 05:29:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 05:29:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 05:29:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 05:29:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 05:29:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 05:29:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 05:29:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 05:29:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 05:29:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 05:29:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 06:15:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[28-Jan-2026 06:31:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/alihairw/public_html/config.php:6
+Stack trace:
+#0 /home/alihairw/public_html/forgot_password.php(3): require_once()
+#1 {main}
+  thrown in /home/alihairw/public_html/config.php on line 6
+[02-Feb-2026 23:39:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[04-Feb-2026 03:30:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihairw_alihai...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[04-Feb-2026 03:30:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihairw_alihai...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[05-Feb-2026 06:25:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihairw_alihai...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[08-Feb-2026 13:38:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihairw_alihai...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[08-Feb-2026 13:38:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihairw_alihai...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[08-Feb-2026 21:57:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[11-Feb-2026 12:12:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[11-Feb-2026 23:07:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[12-Feb-2026 21:41:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/alihairw/public_html/index.php:16
+Stack trace:
+#0 /home/alihairw/public_html/index.php(16): mysqli->__construct('localhost', 'alihairw', 'x5.H(8xkh3H7EY', 'alihairw_alihai...')
+#1 {main}
+  thrown in /home/alihairw/public_html/index.php on line 16
+[15-Feb-2026 03:50:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[15-Feb-2026 04:20:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[15-Feb-2026 04:48:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[16-Feb-2026 07:01:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[17-Feb-2026 02:00:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[17-Feb-2026 02:30:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[18-Feb-2026 14:34:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[19-Feb-2026 01:09:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[19-Feb-2026 01:59:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[19-Feb-2026 05:20:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[19-Feb-2026 05:22:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[19-Feb-2026 05:22:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[19-Feb-2026 05:22:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[19-Feb-2026 05:23:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
+[19-Feb-2026 05:26:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'WHERE' in /home/alihairw/public_html/product_category.php:199
+Stack trace:
+#0 /home/alihairw/public_html/product_category.php(199): mysqli->prepare('SELECT `id`,`na...')
+#1 {main}
+  thrown in /home/alihairw/public_html/product_category.php on line 199
