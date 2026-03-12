@@ -1,0 +1,70 @@
+[
+    {
+        "order_number": "AHW-20251030-DF69FE",
+        "created_at": "2025-10-30T03:18:30+06:00",
+        "customer": {
+            "name": "OPI",
+            "email": "mdjhk19@gmail.com",
+            "phone": "01987255862",
+            "country": "Bangladesh",
+            "address": "Holdin no: 343\/A,Sarker Bari,Uttar Khan,(Helal Market)."
+        },
+        "items": [
+            {
+                "product_id": 12,
+                "name": "sakib",
+                "unit_price": 88,
+                "qty": 1,
+                "line_total": 88,
+                "img": "admin\/admin\/images\/Gemini_Generated_Image_3h59td3h59td3h59-removebg-preview.png"
+            }
+        ],
+        "currency": "USD",
+        "subtotal": 88,
+        "shipping": 3,
+        "duty": 0,
+        "tax": 0,
+        "total_usd": 91,
+        "display_currency": "USD",
+        "display_subtotal": 88,
+        "display_shipping": 3,
+        "display_duty": 0,
+        "display_tax": 0,
+        "display_total": 91,
+        "error": "The number of elements in the type definition string must match the number of bind variables"
+    },
+    {
+        "order_number": "AHW-20251126-CE9D72",
+        "created_at": "2025-11-26T17:31:23+06:00",
+        "customer": {
+            "name": "ASDF SDSD",
+            "email": "suhugasy@denipl.com",
+            "phone": "8988845343",
+            "country": "United States",
+            "address": "\"4567 Sunset Blvd"
+        },
+        "items": [
+            {
+                "product_id": 30,
+                "name": "JAHID KHAN",
+                "unit_price": 66,
+                "qty": 1,
+                "line_total": 66,
+                "img": "admin\/admin\/images\/222200_4993a3133ed5.jpg"
+            }
+        ],
+        "currency": "USD",
+        "subtotal": 66,
+        "shipping": 12,
+        "duty": 3.29999999999999982236431605997495353221893310546875,
+        "tax": 0,
+        "total_usd": 81.2999999999999971578290569595992565155029296875,
+        "display_currency": "USD",
+        "display_subtotal": 66,
+        "display_shipping": 12,
+        "display_duty": 3.29999999999999982236431605997495353221893310546875,
+        "display_tax": 0,
+        "display_total": 81.2999999999999971578290569595992565155029296875,
+        "error": "Incorrect datetime value: '2025-11-26T17:31:23+06:00' for column `alihairw_alihairwigs`.`orders`.`created_at` at row 1"
+    }
+]

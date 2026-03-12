@@ -1,0 +1,3 @@
+[06-Mar-2026 20:46:05 UTC] MIRAGE inventory fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'SELECT'
+[06-Mar-2026 20:46:10 UTC] MIRAGE inventory fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'SELECT'
+[06-Mar-2026 20:46:14 UTC] MIRAGE inventory fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'SELECT'

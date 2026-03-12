@@ -1,0 +1,304 @@
+[21-Nov-2025 17:09:54 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/admin/admin_dashboard.php:31
+Stack trace:
+#0 /home/alihairw/public_html/admin/admin_dashboard.php(31): mysqli->__construct('127.0.0.1', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/admin_dashboard.php on line 31
+[28-Nov-2025 20:09:21 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/777.png
+[28-Nov-2025 20:09:21 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/222200_4993a3133ed5.jpg
+[28-Nov-2025 20:09:21 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/222200_73d6eabf5a06.png
+[28-Nov-2025 20:09:47 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:09:47 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:09:47 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:11:56 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:11:56 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:11:56 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:11:57 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:11:57 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:11:57 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:11:57 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:11:57 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:11:57 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:11:57 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:11:57 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:11:57 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:12:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:12:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:12:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:12:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:12:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:12:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:12:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:12:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:12:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:12:38 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:12:38 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:12:38 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:12:38 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:12:38 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:12:38 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:15:11 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:15:11 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:15:11 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:15:11 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:15:11 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:15:11 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:05 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:05 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:05 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:05 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:05 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:05 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:05 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:05 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:05 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:05 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:05 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:05 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:06 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:07 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:07 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:07 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:20 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:20 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:20 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:21 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:21 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:21 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:21 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:21 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:21 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:16:21 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:16:21 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:16:21 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:17:36 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:17:36 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:17:36 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:17:36 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:17:36 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:17:36 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:17:36 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:17:36 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:17:36 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:17:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:17:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:17:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:17:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:17:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:17:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:17:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:17:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:17:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:17:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/3.png
+[28-Nov-2025 20:17:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:17:37 Asia/Dhaka] Missing product image: /home/alihairw/public_html/products/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:22:31 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/3.png
+[28-Nov-2025 20:22:31 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:22:31 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:22:32 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/3.png
+[28-Nov-2025 20:22:32 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:22:32 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:22:32 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/3.png
+[28-Nov-2025 20:22:32 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:22:32 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:22:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/3.png
+[28-Nov-2025 20:22:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:22:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:22:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/3.png
+[28-Nov-2025 20:22:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:22:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:24:43 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/3.png
+[28-Nov-2025 20:24:43 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:24:43 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:24:43 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/3.png
+[28-Nov-2025 20:24:43 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:24:43 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:24:43 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/3.png
+[28-Nov-2025 20:24:43 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:24:43 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:24:44 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/3.png
+[28-Nov-2025 20:24:44 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:24:44 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:24:44 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/3.png
+[28-Nov-2025 20:24:44 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:24:44 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:24:44 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/3.png
+[28-Nov-2025 20:24:44 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:24:44 Asia/Dhaka] Missing product image: /home/alihairw/public_html/admin/admin/images/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:47:31 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 20:47:31 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:47:31 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:49:10 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/favicon.jpg
+[28-Nov-2025 20:49:10 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 20:49:10 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:49:10 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:49:11 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/favicon.jpg
+[28-Nov-2025 20:49:11 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 20:49:11 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:49:11 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:49:12 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/favicon.jpg
+[28-Nov-2025 20:49:12 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 20:49:12 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:49:12 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:49:32 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 20:49:32 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:49:32 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:49:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 20:49:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:49:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:49:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 20:49:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:49:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:49:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 20:49:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:49:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:49:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 20:49:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:49:33 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:49:34 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 20:49:34 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:49:34 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:49:34 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 20:49:34 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 20:49:34 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 20:50:55 Asia/Dhaka] PHP Warning:  Undefined variable $companyLogoSrc in /home/alihairw/public_html/admin/order_view.php on line 260
+[28-Nov-2025 20:50:55 Asia/Dhaka] PHP Warning:  Undefined variable $companyLogoSrc in /home/alihairw/public_html/admin/order_view.php on line 261
+[28-Nov-2025 20:50:55 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: esc(): Argument #1 ($s) must be of type string, null given, called in /home/alihairw/public_html/admin/order_view.php on line 261 and defined in /home/alihairw/public_html/admin/order_view.php:48
+Stack trace:
+#0 /home/alihairw/public_html/admin/order_view.php(261): esc(NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/order_view.php on line 48
+[28-Nov-2025 20:50:56 Asia/Dhaka] PHP Warning:  Undefined variable $companyLogoSrc in /home/alihairw/public_html/admin/order_view.php on line 260
+[28-Nov-2025 20:50:56 Asia/Dhaka] PHP Warning:  Undefined variable $companyLogoSrc in /home/alihairw/public_html/admin/order_view.php on line 261
+[28-Nov-2025 20:50:56 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: esc(): Argument #1 ($s) must be of type string, null given, called in /home/alihairw/public_html/admin/order_view.php on line 261 and defined in /home/alihairw/public_html/admin/order_view.php:48
+Stack trace:
+#0 /home/alihairw/public_html/admin/order_view.php(261): esc(NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/order_view.php on line 48
+[28-Nov-2025 21:09:38 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 21:09:38 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 21:09:38 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 21:09:39 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 21:09:39 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 21:09:39 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 21:09:39 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 21:09:39 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 21:09:39 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[28-Nov-2025 21:09:39 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/3.png
+[28-Nov-2025 21:09:39 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/download_035eede66dc9.jpg
+[28-Nov-2025 21:09:39 Asia/Dhaka] Missing product image: /home/alihairw/public_html/uploads/admin/admin/images/Lace_70bfe5ab45bd.jpg
+[18-Dec-2025 23:17:10 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/admin/order_status_update.php:21
+Stack trace:
+#0 /home/alihairw/public_html/admin/order_status_update.php(21): mysqli->__construct('127.0.0.1', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/order_status_update.php on line 21
+[18-Dec-2025 23:19:23 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' (using password: NO) in /home/alihairw/public_html/admin/order_status_update.php:21
+Stack trace:
+#0 /home/alihairw/public_html/admin/order_status_update.php(21): mysqli->__construct('127.0.0.1', 'alihairw', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/order_status_update.php on line 21
+[18-Dec-2025 23:19:30 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' (using password: NO) in /home/alihairw/public_html/admin/order_status_update.php:21
+Stack trace:
+#0 /home/alihairw/public_html/admin/order_status_update.php(21): mysqli->__construct('127.0.0.1', 'alihairw', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/order_status_update.php on line 21
+[18-Dec-2025 23:20:17 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'alihairw'@'localhost' (using password: NO) in /home/alihairw/public_html/admin/order_status_update.php:21
+Stack trace:
+#0 /home/alihairw/public_html/admin/order_status_update.php(21): mysqli->__construct('localhost', 'alihairw', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/order_status_update.php on line 21
+[21-Dec-2025 16:17:07 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/admin/delete_product.php:38
+Stack trace:
+#0 /home/alihairw/public_html/admin/delete_product.php(38): mysqli->__construct('127.0.0.1', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/delete_product.php on line 38
+[21-Dec-2025 16:27:45 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 181
+[21-Dec-2025 16:27:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 181
+[21-Dec-2025 16:27:45 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 368
+[21-Dec-2025 16:27:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 368
+[21-Dec-2025 16:27:45 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 381
+[21-Dec-2025 16:27:45 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 381
+[21-Dec-2025 16:27:45 Asia/Dhaka] PHP Warning:  Undefined variable $csrf in /home/alihairw/public_html/admin/edit_product.php on line 382
+[21-Dec-2025 16:27:45 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: esc(): Argument #1 ($s) must be of type string, null given, called in /home/alihairw/public_html/admin/edit_product.php on line 382 and defined in /home/alihairw/public_html/admin/edit_product.php:49
+Stack trace:
+#0 /home/alihairw/public_html/admin/edit_product.php(382): esc(NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/edit_product.php on line 49
+[21-Dec-2025 16:27:46 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 181
+[21-Dec-2025 16:27:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 181
+[21-Dec-2025 16:27:46 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 368
+[21-Dec-2025 16:27:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 368
+[21-Dec-2025 16:27:46 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 381
+[21-Dec-2025 16:27:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 381
+[21-Dec-2025 16:27:46 Asia/Dhaka] PHP Warning:  Undefined variable $csrf in /home/alihairw/public_html/admin/edit_product.php on line 382
+[21-Dec-2025 16:27:46 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: esc(): Argument #1 ($s) must be of type string, null given, called in /home/alihairw/public_html/admin/edit_product.php on line 382 and defined in /home/alihairw/public_html/admin/edit_product.php:49
+Stack trace:
+#0 /home/alihairw/public_html/admin/edit_product.php(382): esc(NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/edit_product.php on line 49
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 181
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 181
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 368
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 368
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 381
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 381
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Undefined variable $csrf in /home/alihairw/public_html/admin/edit_product.php on line 382
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: esc(): Argument #1 ($s) must be of type string, null given, called in /home/alihairw/public_html/admin/edit_product.php on line 382 and defined in /home/alihairw/public_html/admin/edit_product.php:49
+Stack trace:
+#0 /home/alihairw/public_html/admin/edit_product.php(382): esc(NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/edit_product.php on line 49
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 181
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 181
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 368
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 368
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 381
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 381
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Undefined variable $csrf in /home/alihairw/public_html/admin/edit_product.php on line 382
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: esc(): Argument #1 ($s) must be of type string, null given, called in /home/alihairw/public_html/admin/edit_product.php on line 382 and defined in /home/alihairw/public_html/admin/edit_product.php:49
+Stack trace:
+#0 /home/alihairw/public_html/admin/edit_product.php(382): esc(NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/edit_product.php on line 49
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 181
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 181
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 368
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 368
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Undefined variable $prod in /home/alihairw/public_html/admin/edit_product.php on line 381
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/admin/edit_product.php on line 381
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Warning:  Undefined variable $csrf in /home/alihairw/public_html/admin/edit_product.php on line 382
+[21-Dec-2025 16:27:47 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: esc(): Argument #1 ($s) must be of type string, null given, called in /home/alihairw/public_html/admin/edit_product.php on line 382 and defined in /home/alihairw/public_html/admin/edit_product.php:49
+Stack trace:
+#0 /home/alihairw/public_html/admin/edit_product.php(382): esc(NULL)
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/edit_product.php on line 49
+[21-Dec-2025 16:48:33 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alihairw/public_html/admin/add_product_category.php:503) in /home/alihairw/public_html/admin/add_product_category.php on line 621
+[21-Dec-2025 16:48:40 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'silk (copy)' for key 'name' in /home/alihairw/public_html/admin/add_product_category.php:615
+Stack trace:
+#0 /home/alihairw/public_html/admin/add_product_category.php(615): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/add_product_category.php on line 615
+[28-Jan-2026 11:10:05 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alihairw/public_html/admin/add_product_category.php:503) in /home/alihairw/public_html/admin/add_product_category.php on line 621
+[28-Jan-2026 12:15:39 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/admin/delete_order.php:14
+Stack trace:
+#0 /home/alihairw/public_html/admin/delete_order.php(14): mysqli->__construct('127.0.0.1', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/delete_order.php on line 14
+[28-Jan-2026 12:19:34 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/alihairw/public_html/admin/delete_order.php:14
+Stack trace:
+#0 /home/alihairw/public_html/admin/delete_order.php(14): mysqli->__construct('127.0.0.1', 'root', '', 'alihairwigs')
+#1 {main}
+  thrown in /home/alihairw/public_html/admin/delete_order.php on line 14

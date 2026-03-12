@@ -1,0 +1,207 @@
+[25-Jan-2026 13:51:56 UTC] Error fetching user data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alihairw_alisoft.orders' doesn't exist
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Undefined array key "total_orders" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1255
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:08 UTC] Error fetching user data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alihairw_alisoft.orders' doesn't exist
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "total_orders" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1255
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:08 UTC] Error fetching user data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alihairw_alisoft.orders' doesn't exist
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "total_orders" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1255
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:08 UTC] Error fetching user data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alihairw_alisoft.orders' doesn't exist
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "total_orders" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1255
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:09 UTC] Error fetching user data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alihairw_alisoft.orders' doesn't exist
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Undefined array key "total_orders" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1255
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:28 UTC] Error fetching user data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alihairw_alisoft.orders' doesn't exist
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Undefined array key "total_orders" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1255
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:29 UTC] Error fetching user data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alihairw_alisoft.orders' doesn't exist
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "total_orders" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1255
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:29 UTC] Error fetching user data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alihairw_alisoft.orders' doesn't exist
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "total_orders" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1255
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:30 UTC] Error fetching user data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alihairw_alisoft.orders' doesn't exist
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "total_orders" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1255
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:30 UTC] Error fetching user data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alihairw_alisoft.orders' doesn't exist
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "total_orders" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1255
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1471
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "vendor_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1476
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1500
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "employee_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1505
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1529
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Undefined array key "customer_stats" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 13:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1534
+[25-Jan-2026 14:06:11 UTC] Error fetching user data: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alihairw_alisoft.orders' doesn't exist
+[25-Jan-2026 14:06:11 UTC] PHP Warning:  Undefined array key "total_orders" in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1360
+[25-Jan-2026 14:06:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alihairw_alisoft.orders' doesn't exist in /home/alihairw/public_html/ams/user/user_dashboard.php:1775
+Stack trace:
+#0 /home/alihairw/public_html/ams/user/user_dashboard.php(1775): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/alihairw/public_html/ams/user/user_dashboard.php on line 1775
